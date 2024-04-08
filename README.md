@@ -32,7 +32,3 @@
 - Description: The function takes a string and reverses each word in it. Words are separated by spaces, and punctuation remains attached to the word.
 - Test Case: ReverseWords("This is the original sentence!")
 - Expected Outcome: "sihT si eht lanigiro !ecnetnes"
-
-## Deadline
-
-Thursday 21st END OF THE DAY
